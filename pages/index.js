@@ -1,5 +1,12 @@
+import React from "react";
+import styles from "./styles.module.css"; // Importe o arquivo CSS module
+
 function Home() {
-  return <h1>Em desenvolvimento... 🚧</h1>;
+  return (
+    <div>
+      <h1 className={styles.homeH1}>Em desenvolvimento... 🚧</h1>;
+    </div>
+  );
 }
 
 export default Home;
