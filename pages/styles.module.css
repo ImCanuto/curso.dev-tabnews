@@ -1,7 +1,11 @@
-.homeH1 {
-  padding: 20%;
+.tittle {
+  top: 25vh;
+  font-family: sans-serif;
+  position: relative;
+}
+
+.container {
+  background-color: azure;
   display: flex;
-  text-align: center;
-  align-items: center;
-  align-content: center;
+  justify-content: center;
 }
