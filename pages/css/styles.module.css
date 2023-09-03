@@ -2,11 +2,13 @@
   font-family: sans-serif;
   position: relative;
   font-weight: bold;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
-  width: 98vw;
-  height: 98vh;
+  width: 97vw;
+  height: 97vh;
   display: flex;
   justify-content: center;
   align-items: center;
